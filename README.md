@@ -1,19 +1,4 @@
 
-  # Smart Attendance Web App
-
-  This is a code bundle for Smart Attendance Web App. The original project is available at https://www.figma.com/design/wXIRxk1Oxh50pqM1syUeUD/Smart-Attendance-Web-App.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  #   H a c k a t h o n - P r o j e c t - b y - C o d e x 
- 
- #   H a c k a t h o n - P r o j e c t - b y - C o d e x 
- 
- #   H a c k a t h o n - P r o j e c t - b y - C o d e x 
-
 # Hackathon-Project-by-Codex
 
 Smart Attendance Web Application  
