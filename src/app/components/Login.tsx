@@ -1,4 +1,5 @@
-import image_8f475c60ab263c84a45860a35d503e1c9950bfed from 'figma:asset/8f475c60ab263c84a45860a35d503e1c9950bfed.png';
+import loginImage from "../../assets/8f475c60ab263c84a45860a35d503e1c9950bfed.png";
+
 import { useState } from 'react';
 import { User } from '../App';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/tabs';
